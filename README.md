@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Typing Banner -->
+<!-- Animated Cyberpunk Typing Header -->
 <a href="https://github.com/premkumar2707">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=750&height=70&lines=Hey+there%2C+I'm+Purushotham+Kumar+%F0%9F%91%8B;Full-Stack+Architect+%26+AI+Engineer+%E2%9A%A1;Innovedge+Technical+Lead+%40+SNPSU+%F0%9F%9A%80;Building+Scalable+Modern+Systems+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
@@ -31,10 +31,11 @@
   </a>
 </p>
 
-<!-- Profile Views & Activity Status -->
+<!-- Dynamic Status Pills -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=premkumar2707&color=00f0ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20COLLABORATION-success?style=flat-square&logo=git&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/ROLE-INNOVEDGE%20TECH%20LEAD-00f0ff?style=flat-square&logo=codeforces&logoColor=black" alt="Role" />
   <img src="https://img.shields.io/badge/LOCATION-BENGALURU%2C%20INDIA-blueviolet?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
@@ -71,7 +72,7 @@
 
 ### 🏆 Highlight Reel & Major Wins
 
-| 🥇 Achievement | 📌 Details |
+| 🥇 Achievement | 📌 Event & Details |
 | :--- | :--- |
 | 🥇 **1st Place** | **Project Expo Winner** — Dept. Web Dev Champion @ SNPSU |
 | 🏆 **Tech Expo 2025** | **1st Place** — Best Interactive Next-Gen Web Platform |
@@ -91,7 +92,7 @@
         <h3>🌐 SNPSU Nexus</h3>
         <p><b>Digital Campus Knowledge & Live Coordination Network</b></p>
       </div>
-      <p>A flagship campus platform for Sapthagiri NPS University offering automated student alerts, collaborative course portals, resource sharing, and multiplayer campus games.</p>
+      <p>Flagship campus platform for Sapthagiri NPS University offering automated student alerts, collaborative course portals, resource sharing, and multiplayer campus games.</p>
       <p><b>Tech:</b> <code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Socket.io</code> <code>Vercel</code></p>
       <p align="center">
         <a href="https://snpsunexus.vercel.app" target="_blank">
@@ -222,6 +223,28 @@
 
 ---
 
+### 📊 GitHub Analytics & Real-Time Performance
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=premkumar2707&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=premkumar2707&theme=tokyonight" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=premkumar2707&theme=tokyonight" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=premkumar2707&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" width="49%" />
+</div>
+
+---
+
+### 📈 Interactive Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=premkumar2707&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b26&color=7aa2f7&line=f7768e&point=ffffff" width="100%" />
+</p>
+
+---
+
 ### 🌐 Connect With Me
 
 <div align="center">
@@ -236,28 +259,6 @@
 | 📬 **Email** | [Send Email](mailto:kumarpurushotham511@gmail.com) | `kumarpurushotham511@gmail.com` |
 
 </div>
-
----
-
-### 📊 GitHub Analytics & Real-Time Performance
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premkumar2707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF007F&text_color=E6EDF3" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumar2707&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=E6EDF3" width="47%" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premkumar2707&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF007F&currStreakLabel=00F0FF&sideLabels=E6EDF3" width="70%" />
-</div>
-
----
-
-### 📈 Interactive Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=premkumar2707&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F0FF&line=FF007F&point=FFFFFF" width="98%" />
-</p>
 
 ---
 
