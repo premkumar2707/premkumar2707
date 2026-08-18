@@ -271,6 +271,6 @@
   └─────────────────────────────────────────────────────────────┘
 ```
 
-<b>Built with 💙 by <a href="https://github.com/premkumar2707">Purushotham Kumar</a></b>
+<b>Built with 🩵 by <a href="https://github.com/premkumar2707">Purushotham Kumar</a></b>
 
 </div>
